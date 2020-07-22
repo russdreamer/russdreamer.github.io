@@ -1,0 +1,21 @@
+{
+  "name": "devlopr-jekyll",
+  "homepage": "https://github.com/russdreamer",
+  "authors": [
+    "russdreamer <russdreamer@gmail.com>"
+  ],
+  "description": "A Jekyll Theme",
+  "main": "",
+  "keywords": [
+    "jekyll-theme",
+    "jekyll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
